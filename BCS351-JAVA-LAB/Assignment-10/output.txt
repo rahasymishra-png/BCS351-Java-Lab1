@@ -1,0 +1,9 @@
+Wednesday
+
+[10, 20, 30, 40]
+Size: 4
+Item at index 2: 30
+
+[10, 25, 30]
+Size: 3
+

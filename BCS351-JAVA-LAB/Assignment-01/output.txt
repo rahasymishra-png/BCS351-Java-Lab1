@@ -1,0 +1,17 @@
+Hello World
+Welcome to Java
+
+Roll: 101
+Percentage: 84.5
+Section: B
+Name: Asha
+
+Sum: 22
+Difference: 12
+Product: 85
+Quotient: 3
+Remainder: 2
+
+Area: 153.86
+Perimeter: 43.96
+

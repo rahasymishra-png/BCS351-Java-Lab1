@@ -1,0 +1,15 @@
+Length: 11
+Position of g: 3
+Upper case: PROGRAMMING
+
+Reversed: avaJ
+
+racecar is a palindrome
+
+a
+ab
+abc
+b
+bc
+c
+

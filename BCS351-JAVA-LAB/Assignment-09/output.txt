@@ -1,0 +1,9 @@
+First row: 1 2 3 
+Last row: 7 8 9 
+
+Column 1 sum: 12
+Column 2 sum: 15
+Column 3 sum: 18
+
+Values greater than 5: 4
+

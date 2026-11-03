@@ -1,0 +1,8 @@
+27 is odd
+
+Grade: B
+
+Leap year
+
+Factorial of 5 is 120
+

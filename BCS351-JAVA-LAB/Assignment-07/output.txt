@@ -1,0 +1,6 @@
+Steps: 10
+
+Steps: 100
+
+Halving steps: 10
+
